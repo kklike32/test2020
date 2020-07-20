@@ -1,2 +1,3 @@
 # test2020
-this is a test
+This is a test repo
+I am currently editing the README document on Visual Studio Code.
